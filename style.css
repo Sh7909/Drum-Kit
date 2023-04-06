@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    background-color:rgb(40, 49, 73);
+    text-align: center;
+}
+#Drumkit{
+    color:white;
+    font-size:2rem;
+    font-family:monospace;
+    font-weight:bold;
+}
+h1{
+    text-shadow: 3px 4px #ce0c63;
+    font-size:5rem;
+}
+#btn{
+    margin-left:15%;
+    display: flex;
+    
+    
+}
+button{
+    width:10rem;
+    height:9rem;
+    border-radius:0.5rem;
+    border:0.8rem solid rgb(76, 88, 119);
+    margin:1rem;
+    color:#ce0c63;
+    text-shadow: 3px 4px rgb(187, 221, 233);
+    font-size:5rem;
+    font-weight: bold;
+    font-family: monospace;
+   
+}
+
+#w{
+    
+    background-image:url("./abc.png");
+}
+#a{
+    background-image:url("./abc.png");
+}
+#s{
+    background-image:url("./abc.png");
+}
+#d{
+    background-image:url("./abc.png");
+}
+#j{
+    background-image:url("./abc.png");
+}
+
+#k{
+    background-image:url("./abc.png");
+}
+#l{
+    background-image:url("./abc.png");
+}
+#text{
+    color:rgb(219, 237, 243);
+    font-family: Arial, Helvetica, sans-serif;
+}
